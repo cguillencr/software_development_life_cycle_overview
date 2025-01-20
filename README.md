@@ -135,6 +135,7 @@ Esta técnica utiliza sombreros con etiquetas específicas para representar dife
 - **30 minutos**:
   - Sprint N, semana 3 (build en producción, más llegan incidentes).
   - Preguntas clave:
+    - **QAs**: ¿Qué pruebas hicieron?
     - **Support**: ¿Cómo priorizan y gestionan los incidentes?
       - Llegaron 7 incidentes el primer día:
         - 7 de que calcula mal.
@@ -144,9 +145,10 @@ Esta técnica utiliza sombreros con etiquetas específicas para representar dife
 ## Flexiones
 - Las actividades de soporte y SRE generalmente son una tarea de soporte que se negocia aparte del costo del producto.
 
-- En las fases de diseño se hacen los Jobs to be Done (JTBD).
-- En las fases del proyecto proyecto se hacen los user stories(US) basados en los Jobs to be done.
-- En las fases del proyecto se hacen los SLO´s... basados en los US ?  o en los JTBD ?
+- Flujo
+   - En las fases de diseño se hacen los Jobs to be Done (JTBD).
+   - En las fases del proyecto proyecto se hacen los user stories(US) basados en los Jobs to be done.
+   - En las fases del proyecto se hacen los SLO´s... basados en los US ?  o en los JTBD ?
 
 - En desarrollo (Dev), las buenas prácticas como Clean Code y los principios de diseño de interfaces de usuario (UI) son fundamentales. En aseguramiento de calidad (QA), se destacan los casos de prueba (TC), las pruebas funcionales y las automatizadas. En DevOps, la automatización de procesos y el aprovisionamiento son clave.
 
