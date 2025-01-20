@@ -131,12 +131,22 @@ Esta técnica utiliza sombreros con etiquetas específicas para representar dife
     - **SREs**: ¿PM y Support les piden que agreguen las traces, logs o métricas que tengan de las pruebas de QA o cuando reportaron el incidente?
       - ¿Estimaron eso?
       - ¿Cambiaron el costo inicial?
-
-#### **Cuarta Hora**
+     
+- **30 minutos**:
+  - Sprint N, semana 3 (build en producción, más llegan incidentes).
+  - Preguntas clave:
+    - **Support**: ¿Cómo priorizan y gestionan los incidentes?
+      - Llegaron 7 incidentes el primer día:
+        - 7 de que calcula mal.
+    - **Devs**: ¿Cómo calculan los totales y qué tipo de variables usan?
 
 
 ## Flexiones
 - Las actividades de soporte y SRE generalmente son una tarea de soporte que se negocia aparte del costo del producto.
+
+- En las fases de diseño se hacen los Jobs to be Done (JTBD).
+- En las fases del proyecto proyecto se hacen los user stories(US) basados en los Jobs to be done.
+- En las fases del proyecto se hacen los SLO´s... basados en los US ?  o en los JTBD ?
 
 - En desarrollo (Dev), las buenas prácticas como Clean Code y los principios de diseño de interfaces de usuario (UI) son fundamentales. En aseguramiento de calidad (QA), se destacan los casos de prueba (TC), las pruebas funcionales y las automatizadas. En DevOps, la automatización de procesos y el aprovisionamiento son clave.
 
